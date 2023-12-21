@@ -656,14 +656,14 @@
               <FilePath>.\Hardware\LED.c</FilePath>
             </File>
             <File>
-              <FileName>LED.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\LED.h</FilePath>
-            </File>
-            <File>
               <FileName>Key.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\Key.c</FilePath>
+            </File>
+            <File>
+              <FileName>OLED.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\OLED.c</FilePath>
             </File>
             <File>
               <FileName>Key.h</FileName>
@@ -671,9 +671,9 @@
               <FilePath>.\Hardware\Key.h</FilePath>
             </File>
             <File>
-              <FileName>OLED.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\OLED.c</FilePath>
+              <FileName>LED.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\LED.h</FilePath>
             </File>
             <File>
               <FileName>OLED.h</FileName>
@@ -684,6 +684,21 @@
               <FileName>OLED_Font.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Hardware\OLED_Font.h</FilePath>
+            </File>
+            <File>
+              <FileName>OV7670.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\OV7670.c</FilePath>
+            </File>
+            <File>
+              <FileName>SCCB.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\SCCB.c</FilePath>
+            </File>
+            <File>
+              <FileName>Serial.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Serial.c</FilePath>
             </File>
           </Files>
         </Group>
